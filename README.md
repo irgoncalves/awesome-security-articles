@@ -14,7 +14,7 @@ All the contents of this list are public and mostly free, use them for education
 [2020 - F5 - Turing in his grave: what human CAPTCHA solvers reveal about control design](https://www.f5.com/labs/articles/cisotociso/turing-in-his-grave--what-human-captcha-solvers-reveal-about-con)    
 [2018 - Hackernoon - 10 common security gotchas in Python and how to avoid them](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)  
 [2019 - JSSEC - Android application secure design/secure coding guidebook](https://www.jssec.org/dl/android_securecoding_en.pdf)  
-[2017 - Joao Matos - An overview of deserialization vulnerabilities in Java Virtual Machine (JVM)](http://www.joaomatosf.com/rnp/Hakin9_Open_Deserialization_Pg169.pdf)  
+[2017 - Joao Matos - An overview of deserialization vulnerabilities in Java Virtual Machine (JVM)](https://hakin9.org/download/hakin9-open-open-source-tools/)    
 [2017 - Joao Matos - Um overview sobre as bases das falhas de desserialização nativa na JVM](https://www.h2hc.com.br/revista/RevistaH2HC_12.pdf)   
 [2018 - Microsoft - Learn how to add continuous security validation to your CI/CD pipeline](https://docs.microsoft.com/en-us/azure/devops/migrate/security-validation-cicd-pipeline?view=azure-devops)  
 [2017 - NCCGroup - Request encoding to bypass web application firewall](https://www.nccgroup.com/uk/about-us/newsroom-and-events/blogs/2017/august/request-encoding-to-bypass-web-application-firewalls/)  
