@@ -1,5 +1,5 @@
 # Awesome Security Articles
-A curated list of awesome articles, papers, presentations, practices and blog posts from security independent researchers, students, vendors etc.
+A curated list of awesome articles, papers, presentations, practices and blog posts from security independent researchers, students, vendors etc. There are plenty of resourcers available on the internet from conferences, universities, vendors etc. and those listed below are the ones I've read and enjoyed it (and of course, could remember!). 
 
 # Disclaimer
 All the contents of this list are public and mostly free, use them for educational purpose only.
