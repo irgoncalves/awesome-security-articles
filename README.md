@@ -12,6 +12,7 @@ All the contents of this list are public and mostly free, use them for education
 [2017 - F5 - NGINX Cookbook (part 2): Advanced recipes for security](https://www.nginx.com/resources/library/nginx-cookbook-part-2-security/#download)  
 [2018 - F5 - Abusing Googlebot services to delivery crypt-mining malware](https://www.f5.com/labs/articles/threat-intelligence/abusing-googlebot-services-to-deliver-crypto-mining-malware)  
 [2020 - F5 - Turing in his grave: what human CAPTCHA solvers reveal about control design](https://www.f5.com/labs/articles/cisotociso/turing-in-his-grave--what-human-captcha-solvers-reveal-about-con)    
+[2018 - Hackernoon - 10 common security gotchas in Python and how to avoid them](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)  
 [2019 - JSSEC - Android application secure design/secure coding guidebook](https://www.jssec.org/dl/android_securecoding_en.pdf)  
 [2017 - Joao Matos - An overview of deserialization vulnerabilities in Java Virtual Machine (JVM)](http://www.joaomatosf.com/rnp/Hakin9_Open_Deserialization_Pg169.pdf)  
 [2017 - Joao Matos - Um overview sobre as bases das falhas de desserialização nativa na JVM](https://www.h2hc.com.br/revista/RevistaH2HC_12.pdf)   
@@ -33,6 +34,7 @@ All the contents of this list are public and mostly free, use them for education
 TBD
 
 # Windows Security
+[2016 - Adsecurity.org - Attack methods for gaining Domain Admin rights in Active Directory](https://adsecurity.org/?p=2362)  
 [2018 - Adsecurity.org - Unofficial guide to Mimikatz & command reference](https://adsecurity.org/?page_id=1821)  
 [2020 - CERT-FR - Active Directory security assessment checklist](https://www.cert.ssi.gouv.fr/uploads/guide-ad.html)  
 [2017 - Harmj0y - Pass-the-Hash is dead: long live LocalAccountTokenFilterPolicy](http://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/)  
