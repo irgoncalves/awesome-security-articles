@@ -13,6 +13,7 @@ All the contents of this list are public and mostly free, use them for education
 [2017 - F5 - NGINX Cookbook (part 2): Advanced recipes for security](https://www.nginx.com/resources/library/nginx-cookbook-part-2-security/#download)  
 [2018 - F5 - Abusing Googlebot services to delivery crypt-mining malware](https://www.f5.com/labs/articles/threat-intelligence/abusing-googlebot-services-to-deliver-crypto-mining-malware)  
 [2020 - F5 - Turing in his grave: what human CAPTCHA solvers reveal about control design](https://www.f5.com/labs/articles/cisotociso/turing-in-his-grave--what-human-captcha-solvers-reveal-about-con)    
+[2019 - Google - How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)  
 [2018 - Hackernoon - 10 common security gotchas in Python and how to avoid them](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)  
 [2019 - JSSEC - Android application secure design/secure coding guidebook](https://www.jssec.org/dl/android_securecoding_en.pdf)  
 [2017 - Joao Matos - An overview of deserialization vulnerabilities in Java Virtual Machine (JVM)](https://hakin9.org/download/hakin9-open-open-source-tools/)    
