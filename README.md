@@ -41,6 +41,7 @@ TBD
 [2020 - CERT-FR - Active Directory security assessment checklist](https://www.cert.ssi.gouv.fr/uploads/guide-ad.html)  
 [2017 - Harmj0y - Pass-the-Hash is dead: long live LocalAccountTokenFilterPolicy](http://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/)  
 [2020 - Infosecmatter - Top 16 Active Directory vulnerabilities](https://www.infosecmatter.com/top-16-active-directory-vulnerabilities/)  
+[2020 - Positive Technologies - Attacking MS Exchange web interfaces](https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/)  
 [2019 - Shellz.club - Pass-the-Hash with RDP in 2019](https://shellz.club/pass-the-hash-with-rdp-in-2019/)  
 
 # Linux Security
