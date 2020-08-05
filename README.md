@@ -41,6 +41,7 @@ TBD
 [2020 - CERT-FR - Active Directory security assessment checklist](https://www.cert.ssi.gouv.fr/uploads/guide-ad.html)  
 [2017 - Harmj0y - Pass-the-Hash is dead: long live LocalAccountTokenFilterPolicy](http://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/)  
 [2020 - Infosecmatter - Top 16 Active Directory vulnerabilities](https://www.infosecmatter.com/top-16-active-directory-vulnerabilities/)  
+[2020 - Microsoft - Security Documentation](https://docs.microsoft.com/en-us/security/)  
 [2020 - Positive Technologies - Attacking MS Exchange web interfaces](https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/)  
 [2019 - Shellz.club - Pass-the-Hash with RDP in 2019](https://shellz.club/pass-the-hash-with-rdp-in-2019/)  
 
@@ -50,6 +51,7 @@ TBD
 # Cloud Security
 [2016 - Amazon - AWS Security best practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)  
 [2020 - Gitlab - Tutorial on privilege escalation and post exploitation tactics in Google Cloud Platform environments](https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/)  
+[2020 - Microsoft - Security Documentation](https://docs.microsoft.com/en-us/security/)  
 
 # Container Security
 [2019 - Trend Micro - Why running a privileged container in docker is a bad idea](https://blog.trendmicro.com/trendlabs-security-intelligence/why-running-a-privileged-container-in-docker-is-a-bad-idea/)  
