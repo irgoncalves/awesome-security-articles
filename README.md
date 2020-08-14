@@ -28,6 +28,7 @@ All the contents of this list are public and mostly free, use them for education
 [2017 - PortSwigger - Cracking the lens: targeting HTTP's hidden attack-surface](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface)  
 [2018 - PortSwigger - Practical web cache poisoning](https://portswigger.net/research/practical-web-cache-poisoning)  
 [2016 - Sec-1 - Hunting postMessage vulnerabilities](https://docs.ioin.in/writeup/www.exploit-db.com/_docs_40287_pdf/index.pdf)  
+[2013 - Synacktiv - JSF ViewState upside-down](https://www.synacktiv.com/ressources/JSF_ViewState_InYourFace.pdf)  
 [2013 - SkeletonScribe - Practical HTTP Host header attacks](https://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html)  
 [2020 - Telekom Security - Smuggling HTTP headers throught reverse proxies](https://telekomsecurity.github.io/2020/05/smuggling-http-headers-through-reverse-proxies.html)  
 [2017 - Wallarm - SSRF bible](https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf)  
