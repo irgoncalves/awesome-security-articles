@@ -28,6 +28,7 @@ All the contents of this list are public and mostly free, use them for education
 [2016 - Peking University - Targeted online password guessing: an underestimate threat](https://regmedia.co.uk/2016/11/14/ccs16.pdf)  
 [2017 - PortSwigger - Cracking the lens: targeting HTTP's hidden attack-surface](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface)  
 [2018 - PortSwigger - Practical web cache poisoning](https://portswigger.net/research/practical-web-cache-poisoning)  
+[2016 - Prabath Siriwardena - JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)   
 [2012 - SafeCODE - Practical security stories for Agile development environments](https://safecode.org/publication/SAFECode_Agile_Dev_Security0712.pdf)  
 [2016 - Sec-1 - Hunting postMessage vulnerabilities](https://docs.ioin.in/writeup/www.exploit-db.com/_docs_40287_pdf/index.pdf)  
 [2013 - Synacktiv - JSF ViewState upside-down](https://www.synacktiv.com/ressources/JSF_ViewState_InYourFace.pdf)  
