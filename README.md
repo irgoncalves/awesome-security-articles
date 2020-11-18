@@ -34,6 +34,7 @@ All the contents of this list are public and mostly free, use them for education
 [2013 - Synacktiv - JSF ViewState upside-down](https://www.synacktiv.com/ressources/JSF_ViewState_InYourFace.pdf)  
 [2013 - SkeletonScribe - Practical HTTP Host header attacks](https://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html)  
 [2020 - Telekom Security - Smuggling HTTP headers throught reverse proxies](https://telekomsecurity.github.io/2020/05/smuggling-http-headers-through-reverse-proxies.html)  
+[2020 - Tempest Security - HTML to PDF converters, can I hack them?](https://sidechannel.tempestsi.com/html-to-pdf-converters-can-i-hack-them-a681cfee0903)  
 [2017 - Wallarm - SSRF bible](https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf)  
 [2019 - Zeddyu - Help you understand HTTP Smuggling in one article](http://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en/)  
 
