@@ -10,6 +10,7 @@ All the contents of this list are public and mostly free, use them for education
 [2017 - Auth0 - JWT Handbook](https://auth0.com/resources/ebooks/jwt-handbook)  
 [2020 - Brisk Infosec - Host header attack](https://www.briskinfosec.com/blogs/blogsdetail/Host-Header-Attack)  
 [2018 - Carnige Mellon - Threat Modeling: 12 available methods](https://insights.sei.cmu.edu/sei_blog/2018/12/threat-modeling-12-available-methods.html)  
+[2020 - Cobalt Strike - A pentester's guide to Server Side Template Injection - SSTI](https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)  
 [2019 - CPDoS - CPDoS: cache poisoned denial of service](https://cpdos.org/)  
 [2017 - F5 - NGINX Cookbook (part 2): Advanced recipes for security](https://www.nginx.com/resources/library/nginx-cookbook-part-2-security/#download)  
 [2018 - F5 - Abusing Googlebot services to delivery crypt-mining malware](https://www.f5.com/labs/articles/threat-intelligence/abusing-googlebot-services-to-deliver-crypto-mining-malware)  
