@@ -62,6 +62,7 @@ All the contents of this list are public and mostly free, use them for education
 [2016 - Amazon - AWS Security best practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)  
 [2020 - Gitlab - Tutorial on privilege escalation and post exploitation tactics in Google Cloud Platform environments](https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/)  
 [2020 - Microsoft - Security Documentation](https://docs.microsoft.com/en-us/security/)  
+[2021 - SANS - Pratical Guide to Security in the AWS Cloud](https://pages.awscloud.com/Book-SEC-mult-SANS-Practical-Guide-Security-AWS-Cloud.html)  
 
 # Container Security
 [2019 - Trend Micro - Why running a privileged container in docker is a bad idea](https://blog.trendmicro.com/trendlabs-security-intelligence/why-running-a-privileged-container-in-docker-is-a-bad-idea/)  
