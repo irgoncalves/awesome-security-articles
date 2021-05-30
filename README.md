@@ -51,6 +51,7 @@ All the contents of this list are public and mostly free, use them for education
 [2016 - Adsecurity.org - Attack methods for gaining Domain Admin rights in Active Directory](https://adsecurity.org/?p=2362)  
 [2018 - Adsecurity.org - Unofficial guide to Mimikatz & command reference](https://adsecurity.org/?page_id=1821)  
 [2020 - CERT-FR - Active Directory security assessment checklist](https://www.cert.ssi.gouv.fr/uploads/guide-ad.html)  
+[2021 - Eloy Gonzales - Attacking Active Directory: 0 to 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/)   
 [2017 - Harmj0y - Pass-the-Hash is dead: long live LocalAccountTokenFilterPolicy](http://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/)  
 [2020 - Infosecmatter - Top 16 Active Directory vulnerabilities](https://www.infosecmatter.com/top-16-active-directory-vulnerabilities/)  
 [2020 - Microsoft - Security Documentation](https://docs.microsoft.com/en-us/security/)  
