@@ -25,6 +25,7 @@ All the contents of this list are public and mostly free, use them for education
 [2008 - LearnJSF - Securing JSF against the OWASP Top Ten](https://turbomanage.files.wordpress.com/2009/10/securing-jsf-applications-against-owasp-top-ten-color.pdf)  
 [2018 - Microsoft - Learn how to add continuous security validation to your CI/CD pipeline](https://docs.microsoft.com/en-us/azure/devops/migrate/security-validation-cicd-pipeline?view=azure-devops)  
 [2017 - NCCGroup - Request encoding to bypass web application firewall](https://www.nccgroup.com/uk/about-us/newsroom-and-events/blogs/2017/august/request-encoding-to-bypass-web-application-firewalls/)  
+[2019 - NCCGroup - Common Security Issues in FinanciallyOriented Web Applications](https://www.nccgroup.com/globalassets/our-research/uk/images/common_security_issues_in_financially-orientated_web.pdf.pdf)  
 [2021 - NCCGroup - SAML XML Injection](https://research.nccgroup.com/2021/03/29/saml-xml-injection/)  
 [2019 - Nordic APIS - Everything you need to know about API rate limiting](https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/)  
 [2017 - Orange Tsai - A new era of SSRF - exploiting URL parser in trending programming languages!](https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_Orange_Tsai_Talk.pdf)  
