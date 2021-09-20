@@ -31,6 +31,7 @@ All the contents of this list are public and mostly free, use them for education
 [2017 - Orange Tsai - A new era of SSRF - exploiting URL parser in trending programming languages!](https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_Orange_Tsai_Talk.pdf)  
 [2018 - Orange Tsai - Breaking parser logic!](https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf)  
 [2016 - Peking University - Targeted online password guessing: an underestimate threat](https://regmedia.co.uk/2016/11/14/ccs16.pdf)  
+[2021 - Polaridius - Python Vulnerabilities: code execution in Jinja Templates](https://podalirius.net/en/articles/python-vulnerabilities-code-execution-in-jinja-templates/)  
 [2017 - PortSwigger - Cracking the lens: targeting HTTP's hidden attack-surface](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface)  
 [2018 - PortSwigger - Practical web cache poisoning](https://portswigger.net/research/practical-web-cache-poisoning)  
 [2016 - Prabath Siriwardena - JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)   
