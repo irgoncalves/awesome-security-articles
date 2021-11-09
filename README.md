@@ -20,6 +20,7 @@ All the contents of this list are public and mostly free, use them for education
 [2021 - Flyio - API Tokens: a tedius survey](https://fly.io/blog/api-tokens-a-tedious-survey/)  
 [2019 - Google - How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)  
 [2018 - Hackernoon - 10 common security gotchas in Python and how to avoid them](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)  
+[2021 - Hiroki Suezawa - Attacking and Securing CI/CD Pipeline](https://speakerdeck.com/rung/cd-pipeline)  
 [2019 - JSSEC - Android application secure design/secure coding guidebook](https://www.jssec.org/dl/android_securecoding_en.pdf)  
 [2017 - Joao Matos - An overview of deserialization vulnerabilities in Java Virtual Machine (JVM)](https://hakin9.org/download/hakin9-open-open-source-tools/)    
 [2017 - Joao Matos - Um overview sobre as bases das falhas de desserialização nativa na JVM](https://www.h2hc.com.br/revista/RevistaH2HC_12.pdf)   
