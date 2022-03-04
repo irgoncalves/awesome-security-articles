@@ -6,7 +6,8 @@ All the contents of this list are public and mostly free, use them for education
 
 # Application Security
 [2019 - Acunetix - A Fresh Look On Reverse Proxy Related Attacks](https://www.acunetix.com/blog/articles/a-fresh-look-on-reverse-proxy-related-attacks/)  
-[2021 - A glossary of blind SSRF chains](https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/)  
+[2021 - Alex Birsan - Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)  
+[2021 - Assetnote - A glossary of blind SSRF chains](https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/)  
 [2019 - Asif Durani - Remode Command Execution with EL Injection Vulnerabilities](https://www.exploit-db.com/docs/46303)  
 [2017 - Auth0 - JWT Handbook](https://auth0.com/resources/ebooks/jwt-handbook)  
 [2020 - Brisk Infosec - Host header attack](https://www.briskinfosec.com/blogs/blogsdetail/Host-Header-Attack)  
