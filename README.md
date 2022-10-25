@@ -54,8 +54,10 @@ All the contents of this list are public and mostly free, use them for education
 
 
 # Network Security / General Security
+[2020 - Plextrac - Writing a killer penetration test report](https://plextrac.com/wp-content/uploads/2020/02/Killer-Pentest-White-Paper.pdf)  
 [2020 - SANS - The ultimate list of SANS cheatsheet](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)  
-[2020 - Plextrac - Writing a killer penetration test report](https://plextrac.com/wp-content/uploads/2020/02/Killer-Pentest-White-Paper.pdf) 
+[2022 - SEC Consult - Melting the DNS Iceberg: Taking over your infrastructure Kaminsky style](https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/)  
+
 
 # Windows Security
 [2016 - Adsecurity.org - Attack methods for gaining Domain Admin rights in Active Directory](https://adsecurity.org/?p=2362)  
