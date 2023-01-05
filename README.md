@@ -21,7 +21,7 @@ All the contents of this list are public and mostly free, use them for education
 [2020 - F5 - Turing in his grave: what human CAPTCHA solvers reveal about control design](https://www.f5.com/labs/articles/cisotociso/turing-in-his-grave--what-human-captcha-solvers-reveal-about-con)    
 [2021 - Flyio - API Tokens: a tedius survey](https://fly.io/blog/api-tokens-a-tedious-survey/)  
 [2019 - Google - How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)  
-[2022 - Hacktricks - Hop-by-hop headers](https://book.hacktricks.xyz/pentesting-web/abusing-hop-by-hop-headers) 
+[2022 - Hacktricks - Hop-by-hop headers](https://book.hacktricks.xyz/pentesting-web/abusing-hop-by-hop-headers)  
 [2018 - Hackernoon - 10 common security gotchas in Python and how to avoid them](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)  
 [2021 - Hiroki Suezawa - Attacking and Securing CI/CD Pipeline](https://speakerdeck.com/rung/cd-pipeline)  
 [2021 - Intruder.io - Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond](https://www.intruder.io/research/practical-http-header-smuggling)  
