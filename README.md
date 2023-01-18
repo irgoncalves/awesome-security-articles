@@ -16,6 +16,7 @@ All the contents of this list are public and mostly free, use them for education
 [2022 - Claroty - {JS-ON: Security-OFF}: Abusing JSON-Based SQL to Bypass WAF](https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf)  
 [2020 - Cobalt Strike - A pentester's guide to Server Side Template Injection - SSTI](https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)  
 [2019 - CPDoS - CPDoS: cache poisoned denial of service](https://cpdos.org/)  
+[2023 - Cuybervelia - GraphQL exploitation - all you need to know](https://cybervelia.com/?p=736)  
 [2017 - F5 - NGINX Cookbook (part 2): Advanced recipes for security](https://www.nginx.com/resources/library/nginx-cookbook-part-2-security/#download)  
 [2018 - F5 - Abusing Googlebot services to delivery crypt-mining malware](https://www.f5.com/labs/articles/threat-intelligence/abusing-googlebot-services-to-deliver-crypto-mining-malware)  
 [2020 - F5 - Turing in his grave: what human CAPTCHA solvers reveal about control design](https://www.f5.com/labs/articles/cisotociso/turing-in-his-grave--what-human-captcha-solvers-reveal-about-con)    
