@@ -43,6 +43,7 @@ All the contents of this list are public and mostly free, use them for education
 [2017 - PortSwigger - Cracking the lens: targeting HTTP's hidden attack-surface](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface)  
 [2018 - PortSwigger - Practical web cache poisoning](https://portswigger.net/research/practical-web-cache-poisoning)  
 [2021 - PortSwigger - Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)  
+[2022 - PortSwigger - Making HTTP header injection critical via response queue poisoning](https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning)  
 [2016 - Prabath Siriwardena - JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)   
 [2012 - SafeCODE - Practical security stories for Agile development environments](https://safecode.org/publication/SAFECode_Agile_Dev_Security0712.pdf)  
 [2016 - Sec-1 - Hunting postMessage vulnerabilities](https://docs.ioin.in/writeup/www.exploit-db.com/_docs_40287_pdf/index.pdf)  
