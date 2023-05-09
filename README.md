@@ -83,6 +83,7 @@ All the contents of this list are public and mostly free, use them for education
 [2020 - Gitlab - Tutorial on privilege escalation and post exploitation tactics in Google Cloud Platform environments](https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/)  
 [2022 - NCCGroup - A Guide to improving security through Infrastructure-as-Code](https://research.nccgroup.com/2022/09/19/a-guide-to-improving-security-through-infrastructure-as-code/)  
 [2020 - Microsoft - Security Documentation](https://docs.microsoft.com/en-us/security/)  
+[2023 - Prime Harbor - Introduction to Offensive Operations in AWS](https://www.primeharbor.com/blog/pentest/Offensive_Operations_in_AWS-Apr2023.pdf)  
 [2021 - SANS - Pratical Guide to Security in the AWS Cloud](https://pages.awscloud.com/Book-SEC-mult-SANS-Practical-Guide-Security-AWS-Cloud.html)  
 [2021 - SideChannel- Enumerating Services in AWS Accounts in an Anonymous and Unauthenticated Manner](https://sidechannel.blog/en/enumerating-services-in-aws-accounts-in-an-anonymous-and-unauthenticated-manner/index.html)  
 
