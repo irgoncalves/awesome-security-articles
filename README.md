@@ -45,6 +45,7 @@ All the contents of this list are public and mostly free, use them for education
 [2021 - PortSwigger - Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)  
 [2022 - PortSwigger - Making HTTP header injection critical via response queue poisoning](https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning)  
 [2016 - Prabath Siriwardena - JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)   
+[2023 - Praetorian - Refresh: compromising F5 BIG-IP with Request Smuggling| CVE-2023-46747](https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/)  
 [2012 - SafeCODE - Practical security stories for Agile development environments](https://safecode.org/publication/SAFECode_Agile_Dev_Security0712.pdf)  
 [2016 - Sec-1 - Hunting postMessage vulnerabilities](https://docs.ioin.in/writeup/www.exploit-db.com/_docs_40287_pdf/index.pdf)  
 [2022 - Somdev Sangwa - Bypassing Modsecurity for RCEs](https://s0md3v.github.io/blog/modsecurity-rce-bypass) 
