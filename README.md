@@ -30,6 +30,7 @@ All the contents of this list are public and mostly free, use them for education
 [2017 - Joao Matos - An overview of deserialization vulnerabilities in Java Virtual Machine (JVM)](https://hakin9.org/download/hakin9-open-open-source-tools/)    
 [2017 - Joao Matos - Um overview sobre as bases das falhas de desserialização nativa na JVM](https://www.h2hc.com.br/revista/RevistaH2HC_12.pdf)   
 [2008 - LearnJSF - Securing JSF against the OWASP Top Ten](https://turbomanage.files.wordpress.com/2009/10/securing-jsf-applications-against-owasp-top-ten-color.pdf)  
+[2023 - Malicious Group - From Akamai to F5 to NTLM](https://blog.malicious.group/from-akamai-to-f5-to-ntlm/)  
 [2018 - Microsoft - Learn how to add continuous security validation to your CI/CD pipeline](https://docs.microsoft.com/en-us/azure/devops/migrate/security-validation-cicd-pipeline?view=azure-devops)  
 [2017 - NCCGroup - Request encoding to bypass web application firewall](https://www.nccgroup.com/uk/about-us/newsroom-and-events/blogs/2017/august/request-encoding-to-bypass-web-application-firewalls/)  
 [2019 - NCCGroup - Common Security Issues in FinanciallyOriented Web Applications](https://www.nccgroup.com/globalassets/our-research/uk/images/common_security_issues_in_financially-orientated_web.pdf.pdf)  
