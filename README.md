@@ -88,6 +88,7 @@ All the contents of this list are public and mostly free, use them for education
 [2022 - Gitlab - Terraform as part of software supply chain  - part 1 - modules and providers](https://about.gitlab.com/blog/2022/06/01/terraform-as-part-of-software-supply-chain-part1-modules-and-providers/)  
 [2022 - NCCGroup - A Guide to improving security through Infrastructure-as-Code](https://research.nccgroup.com/2022/09/19/a-guide-to-improving-security-through-infrastructure-as-code/)  
 [2020 - Microsoft - Security Documentation](https://docs.microsoft.com/en-us/security/)  
+[2024 - Plerion Blog - Hacking Terraform State for Privilege Escalation](https://blog.plerion.com/hacking-terraform-state-privilege-escalation/)  
 [2023 - Prime Harbor - Introduction to Offensive Operations in AWS](https://www.primeharbor.com/blog/pentest/Offensive_Operations_in_AWS-Apr2023.pdf)  
 [2021 - SANS - Pratical Guide to Security in the AWS Cloud](https://pages.awscloud.com/Book-SEC-mult-SANS-Practical-Guide-Security-AWS-Cloud.html)  
 [2021 - SideChannel- Enumerating Services in AWS Accounts in an Anonymous and Unauthenticated Manner](https://sidechannel.blog/en/enumerating-services-in-aws-accounts-in-an-anonymous-and-unauthenticated-manner/index.html)  
