@@ -38,6 +38,7 @@ All the contents of this list are public and mostly free, use them for education
 [2019 - Nordic APIS - Everything you need to know about API rate limiting](https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/)  
 [2017 - Orange Tsai - A new era of SSRF - exploiting URL parser in trending programming languages!](https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_Orange_Tsai_Talk.pdf)  
 [2018 - Orange Tsai - Breaking parser logic!](https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf)  
+[2024 - Oragen Tsai - Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server!](https://blog.orange.tw/2024/08/confusion-attacks-en.html)  
 [2022 - Payatu - Prototype pollution 101](https://payatu.com/blog/akshat.singhal/prototype-pollution)  
 [2016 - Peking University - Targeted online password guessing: an underestimate threat](https://regmedia.co.uk/2016/11/14/ccs16.pdf)  
 [2021 - Polaridius - Python Vulnerabilities: code execution in Jinja Templates](https://podalirius.net/en/articles/python-vulnerabilities-code-execution-in-jinja-templates/)  
