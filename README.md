@@ -25,6 +25,7 @@ All the contents of this list are public and mostly free, use them for education
 [2022 - Hacktricks - Hop-by-hop headers](https://book.hacktricks.xyz/pentesting-web/abusing-hop-by-hop-headers)  
 [2018 - Hackernoon - 10 common security gotchas in Python and how to avoid them](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03)  
 [2021 - Hiroki Suezawa - Attacking and Securing CI/CD Pipeline](https://speakerdeck.com/rung/cd-pipeline)  
+[2025 - Inigrity - NoSQLi: A complete guide to exploiting advanced NoSQL injection vulnerabilities](https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-nosql-injection-nosqli-vulnerabilities)  
 [2021 - Intruder.io - Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond](https://www.intruder.io/research/practical-http-header-smuggling)  
 [2019 - JSSEC - Android application secure design/secure coding guidebook](https://www.jssec.org/dl/android_securecoding_en.pdf)  
 [2017 - Joao Matos - An overview of deserialization vulnerabilities in Java Virtual Machine (JVM)](https://hakin9.org/download/hakin9-open-open-source-tools/)    
