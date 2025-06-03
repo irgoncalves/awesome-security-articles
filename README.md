@@ -97,3 +97,6 @@ All the contents of this list are public and mostly free, use them for education
 
 # Container Security
 [2019 - Trend Micro - Why running a privileged container in docker is a bad idea](https://blog.trendmicro.com/trendlabs-security-intelligence/why-running-a-privileged-container-in-docker-is-a-bad-idea/)  
+
+# Generative AI Security
+[2025 - Legit Security - Remote Prompt Injection in a GitLab Duo](https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo)  
